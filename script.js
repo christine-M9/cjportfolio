@@ -25,7 +25,7 @@ $(document).ready(function () {
     });
 
     var options = {
-        strings: ["Full Stack Developer.","Database Administrator.", "Data Analyst.",  "Freelancer."],
+        strings: ["Software Engineer.", "Full Stack Developer.","Database Administrator.", "Data Analyst.",  "Freelancer."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
