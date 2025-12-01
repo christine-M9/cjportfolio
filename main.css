@@ -284,7 +284,7 @@ section .title::after {
 .skills .title::after { content: "what i know"; }
 
 /* Teams Section */
-.teams .title::after { content: "who i'm with"; background: #020412; color: rgb(7, 216, 153); }
+.teams .title::after { content: "my tools"; background: #020412; color: rgb(7, 216, 153); }
 
 /* Projects Section */
 .projects .title::after { content: "what i've done"; background: #020412; color: rgb(7, 216, 153); }
