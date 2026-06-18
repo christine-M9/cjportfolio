@@ -661,3 +661,8 @@ section .title::after {
         margin: 0;
     }
 }
+.seo-text {
+    font-size: 0;
+    height: 0;
+    overflow: hidden;
+}

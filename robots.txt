@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ckjportfolio.netlify.app/sitemap.xml
